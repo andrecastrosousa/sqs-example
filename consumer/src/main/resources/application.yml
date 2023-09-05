@@ -1,0 +1,16 @@
+cloud:
+  aws:
+    stack:
+      auto: false
+    region:
+      static: eu-north-1
+      auto: false
+    credentials:
+      access-key: 123
+      secret-key: 123
+    queue:
+      uri: http://localhost:4566
+      name: sample-queue.fifo
+
+server:
+  port: 8081

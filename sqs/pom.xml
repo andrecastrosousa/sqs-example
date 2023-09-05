@@ -8,8 +8,8 @@
 		<version>2.7.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>sqs</artifactId>
+	<groupId>academy.mindswap</groupId>
+	<artifactId>sqs-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sqs</name>
 	<description>Demo project for Spring Boot</description>
